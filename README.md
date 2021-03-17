@@ -1,1 +1,2 @@
 # piklist-books
+This is an example exercise to create a plugin that has an admin page (on the dashboard menu) with several custom fields. I am creating it using the Wordpress framework called Piklist but following the example that PODS demonstrates so that we can compare the two frameworks to determine the more advantages workflow. The example is Books, and the PODS example is here:  https://pods.io/docs/build/how-to-create-a-custom-post-type/
